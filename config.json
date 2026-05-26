@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpecrypt",
+        "uuid": 3558654,
+        "checksum": "jgotn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
